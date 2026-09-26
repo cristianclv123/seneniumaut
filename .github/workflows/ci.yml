@@ -26,4 +26,4 @@ jobs:
 
       - name: Ejecutar prueba Selenium
         run: |
-          python seleniumautomation/tc1.py
+          python tc1.py
